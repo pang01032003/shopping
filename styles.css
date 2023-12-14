@@ -169,7 +169,7 @@ input {
     width: 300px;
     height: 40px;
     bottom: -145px;
-    right: 160px;
+    right: 220px;
 }
 
 .btn {
@@ -177,7 +177,7 @@ input {
     height: 40px;
     width: 130px;
     top: 145px;
-    left: -140px;
+    left: -200px;
     /* เอาเงาออก */
     box-shadow: none;
     /* หรือสามารถกำหนด box-shadow ว่างไปก็ได้ */
@@ -244,19 +244,20 @@ input {
 
 .a1 {
     position: relative;
-    left: -80px;
+    font-size: 20px;
+    left: -120px;
     top: 90px;
 }
 
 .a2 {
     position: relative;
-    left: 280px;
+    left: 190px;
     top: 90px;
 }
 
 .a3 {
     position: relative;
-    left: 285px;
+    left: 195px;
     top: 90px;
 }
 
@@ -276,7 +277,7 @@ input {
 .m02 {
     position: relative;
     width: 28px;
-    left: -90px;
+    left: -130px;
     top: -0px;
 }
 
